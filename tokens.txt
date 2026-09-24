@@ -1,3 +1,1 @@
-# Put your Discord tokens here, one per line
-TOKEN_1
-TOKEN_2
+MTU1MjU5MjY4NzgyMjAyMDY1OQ.G6b-NB.kmN6CBP26AUkUAVgQLE_bKcvsDX_0v43PeVWjk
