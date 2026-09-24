@@ -1,1 +1,2 @@
-MTU1MjU5MjY4NzgyMjAyMDY1OQ.G6b-NB.kmN6CBP26AUkUAVgQLE_bKcvsDX_0v43PeVWjk
+# Put your Discord tokens here, one per line
+MTU1MjU5MjY4NzgyMjAyMDY1OQ.GIS4vw.js6aGWVwZgAfyqskENuw1ym29b03vuOOyCcZ5o
