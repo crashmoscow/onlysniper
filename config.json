@@ -1,9 +1,9 @@
 {
-    "guild_id": "YOUR_GUILD_ID",
-    "target_url": "target-url",
-    "webhook_url": "",
+    "guild_id": "1541679727574786048",
+    "target_url": "610",
+    "webhook_url": "https://discord.com/api/webhooks/1552596165680439316/mgh0hgJLUoIjOsanis8nT23RLJYfiZZFek-bZDIZO6SFwOK6rcCBYW0un1CPVF1-Qfp9",
     "threads": 10,
     "check_interval": 0.1,
     "use_proxies": false,
-    "two_factor_secret": ""
+    "two_factor_secret": "h4zbeiauq3ftui4v4yuerj5ti3lothqs"
 }
